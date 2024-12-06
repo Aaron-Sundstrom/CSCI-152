@@ -1,0 +1,3 @@
+interface CanRun {
+    void run();
+}
